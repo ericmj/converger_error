@@ -1,0 +1,6 @@
+%{"eini": {:git, "https://github.com/accense/eini.git", "27f384d85d83d394d03828d78d5cb9afe3308749", [tag: "1.2.1"]},
+  "erlcloud": {:git, "https://github.com/alertlogic/erlcloud.git", "c7203fd9f52232e9cf1de45b95f80e05b99f3925", [ref: "c7203fd9f52232e9cf1de45b95f80e05b99f3925"]},
+  "ex_aws": {:git, "https://github.com/CargoSense/ex_aws.git", "1b35baec9d992555510a3abf7ffd134a8837e7d1", [ref: "1b35baec9d992555510a3abf7ffd134a8837e7d1"]},
+  "jsx": {:hex, :jsx, "2.8.0", "749bec6d205c694ae1786d62cea6cc45a390437e24835fd16d12d74f07097727", [:mix, :rebar], []},
+  "lhttpc": {:git, "git://github.com/talko/lhttpc", "2d01a5f9c7543b77bdd57f44c92e72801f46e423", [tag: "1.4.0"]},
+  "meck": {:git, "https://github.com/eproxus/meck.git", "70d6a33ce7407029dc59e22a5b3c1c61c1348b23", [tag: "0.8.4"]}}
